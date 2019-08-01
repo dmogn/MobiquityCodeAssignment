@@ -11,7 +11,7 @@ Requirements: JDK 8+, Maven
 
 Algorithm description
 
-The algorithm runs in 2 steps:
+The algorithm runs in 3 steps:
 
 1. Sort items in the package by specific price (price/weight) in desc order.
 
